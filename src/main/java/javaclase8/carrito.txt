@@ -1,0 +1,8 @@
+1 40 jabón en polvo
+3 10 esponjas
+2 100 chocolates
+5 10 alfajores
+1 40 papel higiénico
+1 100 vino tinto
+2 50 pack cerveza
+1 15 detergente
